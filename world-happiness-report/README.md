@@ -1,4 +1,4 @@
-World Happiness Report Analysis (2015–2016)
+ 😊 World Happiness Report Analysis (2015–2016)
 
 **Folder:** `world-happiness-report`
  
